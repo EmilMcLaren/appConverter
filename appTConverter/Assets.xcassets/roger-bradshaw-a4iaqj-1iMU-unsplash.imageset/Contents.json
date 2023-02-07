@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "roger-bradshaw-a4iaqj-1iMU-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "roger-bradshaw-a4iaqj-1iMU-unsplash-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "roger-bradshaw-a4iaqj-1iMU-unsplash-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
